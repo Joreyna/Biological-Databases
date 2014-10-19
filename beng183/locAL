@@ -1,0 +1,21 @@
+# Goal #1: Align two sequences.
+# Goal #2: Use a space-saving alignment (Monday's Lecture).
+# Goal #3: Use linear gap-penalty.  
+# Goal #4: Implement a command line taking arguments match-score,
+# 	    mismatch-score, gapopen, and gapextend. 
+
+
+
+# Inputs
+# DNA sequence file 1
+# DNA sequence file 2
+# match
+# mismatch
+# gap-open
+# gap-extend
+
+Outputs
+# score of best locAL alignment.
+# length of the best locAL alignment.
+# alignment itself.
+
